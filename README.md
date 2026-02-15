@@ -1,10 +1,8 @@
-# Alizi – Moda Feminina 100 % Algodão
-
-**Bem‑vindo ao repositório oficial da Alizi!** Aqui você encontra informações sobre a marca, uma vitrine digital das nossas camisetas femininas em algodão e links úteis para as páginas do site.
+# ALIZI – Camisetas Femininas 100 % Algodão
 
 ## Sobre a marca
 
-A **Alizi** nasceu para unir conforto, estilo e sustentabilidade. Produzimos **camisetas femininas 100 % algodão** com estampas exclusivas inspiradas em música, cinema, arte e natureza. Cada peça é desenhada para quem valoriza autenticidade e bem‑estar no dia a dia.
+A **ALIZI** nasceu para unir conforto, estilo e sustentabilidade. Produzimos **camisetas femininas 100 % algodão** com estampas exclusivas inspiradas em música, cinema, arte e natureza. Cada peça é desenhada para quem valoriza autenticidade e bem‑estar no dia a dia.
 
 ## Artigo e FAQ
 
